@@ -1,0 +1,43 @@
+header {
+    background-color: rgb(135, 120, 201);
+    text-align: center;
+}
+section{
+  width:800px ;
+  height:500px ;
+  border:30px ;
+  float: left;
+  margin-top:40px ;
+  border-color:rgb(111, 86, 80) ;
+  text-align: justify ;
+  font-size:28px ;
+  line-height:50px ;
+}
+.mainbox{
+  width: 1300px;
+  height:600px;
+  border: 5px dashed rgb(223, 171, 0);
+
+}
+.bigbox{
+  width: 600px;
+  height:600px;
+  border: 3px solid rgb(84, 233, 92);
+  float:right;
+}
+.smallbox{
+  width: 500px;
+  height:240px;
+  border: 10px solid rgb(62, 11, 190);
+  margin-top: 20px;
+  margin-left: 20px;
+
+}
+#i1,#i2{
+  width: 500px;
+  height:240px;
+}
+
+p{
+margin-left: 20px;
+}
